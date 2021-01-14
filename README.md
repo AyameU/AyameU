@@ -1,6 +1,8 @@
 ### Hello there 👋
 ###### General Kenobi ... 
 
+
+
 I'm a full-time IT student making the switch from design to development.
 
 - 🔭 I’m currently learning C#, Java, :coffee:script SQL and Networking.

@@ -6,6 +6,7 @@ I'm a full-time IT student making the switch from design to development.
 <br />
 Over the summer 🏝️ I've been working as a Front-End Web Developer for the Province of Manitoba.
 <br />
+<br />
 
 - 🔭 Currently learning about Sass, Web Accessibility, :coffee:script, C#, Java, SQL and React.
 - 😎 Move over Java! I have a new favourite language: C#.

@@ -11,7 +11,6 @@ During summer 2021 🏝️ I worked as a Front-End Web Developer for the Provinc
 <br />
 <br />
 
-- 🔭 Currently learning about React, PHP, :coffee:script, C#, PL/SQL and MySQL.
+- 🔭 Currently learning DSA, Python, and Kotlin.
 - 😎 Move over Java! I have a new favourite language: C#.
 - 😄 I enjoy ... having too many IDEs installed on my computer.
-- :v: I'm planning on ... installing Linux on my desktop to see if it can compete with macOS.
